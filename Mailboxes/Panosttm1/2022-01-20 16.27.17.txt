@@ -1,0 +1,5 @@
+2022-01-20T16:25:46.113001300
+RCPT TO:nikos@gmail.com
+null
+null
+null

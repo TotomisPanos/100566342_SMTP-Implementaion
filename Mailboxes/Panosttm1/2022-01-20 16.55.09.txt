@@ -1,0 +1,9 @@
+2022-01-20T16:54:45.908606400
+RCPT TO:nikos@gmail.com
+null
+Subject:
+ddeeeeelooooo
+Body:
+dear,
+hi
+apnos.

@@ -1,0 +1,6 @@
+2022-01-20T16:16:17.143586500
+MAIL FROM:panosttm1@gmail.com
+
+RCPT TO:nmihal@mgail.com
+null
+null

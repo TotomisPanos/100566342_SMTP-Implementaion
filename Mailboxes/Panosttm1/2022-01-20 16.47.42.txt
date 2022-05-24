@@ -1,0 +1,6 @@
+2022-01-20T16:47:20.048283300
+RCPT TO:nikos@gmail.comnull
+DATAHelloSub
+deeeear,
+hi
+panos.

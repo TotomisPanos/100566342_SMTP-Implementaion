@@ -1,0 +1,8 @@
+2022-01-20T16:46:02.101565500
+RCPT TO:nikos@gmail.comnull
+DATAsubhi-_-_-der,
+hi,
+panos.
+.
+
+null
